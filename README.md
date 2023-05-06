@@ -1,4 +1,7 @@
 # rust_guessing_game
 A rust guessing game
-This is a rust guessing game that will make you guess a number between 1-100.
-Make sure to run the game in the terminal or it wont run.
+This is a number guessing game that runs in you're terminal if you couldn't tell already it was built with rust.
+The guessing game came from the rust book 
+--> https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+Don't know why I posted this to GitHub but I did, anyways had a lot of fun doing this and hope if you find this cool that you'll pick up rust as well.
+Anyways 🦀🦀🦀
